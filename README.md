@@ -1,2 +1,5 @@
 # ktmt-nhapmonn
-Dá»± Ã¡n Ä‘áº§u tiÃªn cá»§a tÃ´i.
+D? án d?u tiên c?a tôi.
+H? và tên: Tr?n Nguy?n Khánh Tiên
+MSSV: 25119161
+"Tôi là m?t ngu?i hi?n lành, t?t b?ng, ngu?i d? thích nghi v?i di?u m?i l?."
