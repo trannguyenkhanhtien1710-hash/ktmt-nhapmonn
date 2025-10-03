@@ -1,5 +1,5 @@
 # ktmt-nhapmonn
-D? �n d?u ti�n c?a t�i.
-H? v� t�n: Tr?n Nguy?n Kh�nh Ti�n
+Dự án đầu tiên của tôi.
+Họ và tên: Trần Nguyễn Khánh Tiên
 MSSV: 25119161
-"T�i l� m?t ngu?i hi?n l�nh, t?t b?ng, ngu?i d? th�ch nghi v?i di?u m?i l?."
+"Tôi là một người hiền lành, tốt bụng, người dễ thích nghi với điều mới lạ."
